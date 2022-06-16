@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: f32d96da99383db498b3d92d10c5259e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3701688576995472343
+    second: SmallStarship_Blue_01
+  - first:
+      213: -5005237845129868531
+    second: SmallStarship_Blue_02
+  - first:
+      213: -8033028383973766348
+    second: MediumStarship_Blue_01
+  - first:
+      213: -3830918916106686774
+    second: MediumStarship_Blue_04
+  - first:
+      213: 7963825791275371049
+    second: MediumStarship_Blue_05
+  - first:
+      213: 3440381276690965280
+    second: SmallFrighter_Blue_01
+  - first:
+      213: -5022674812751989097
+    second: LargeFrighter_Blue_01
+  - first:
+      213: -492111648660132467
+    second: SmallStarship_Blue_03
+  - first:
+      213: -2392512568215863503
+    second: SmallStarship_Blue_04
+  - first:
+      213: -5216317637261038999
+    second: MediumStarship_Blue_02
+  - first:
+      213: 3053137799357148699
+    second: MediumStarship_Blue_03
+  - first:
+      213: 509096827751745488
+    second: LargeStarship_Blue_01
+  - first:
+      213: 4878382414744298909
+    second: Carrier_Blue_01
+  - first:
+      213: -8751620949256052375
+    second: MediumFrighter_Blue_01
+  - first:
+      213: -4948492594628768660
+    second: SuperCarrier_Blue_01
+  - first:
+      213: -6733649408234497014
+    second: CommandStarship_Blue_01
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallStarship_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 481
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c40130ad5f0acc0800000000000000
+      internalID: -3701688576995472343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallStarship_Blue_02
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 481
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b41b0e2b2d98ab0800000000000000
+      internalID: -5005237845129868531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumStarship_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 450
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0d9ede33f48090800000000000000
+      internalID: -8033028383973766348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumStarship_Blue_04
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 403
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee22afa87d5dac0800000000000000
+      internalID: -3830918916106686774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumStarship_Blue_05
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 398
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a001eec51358e60800000000000000
+      internalID: 7963825791275371049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFrighter_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 399
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e1111b80bebf20800000000000000
+      internalID: 3440381276690965280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeFrighter_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 261
+        width: 102
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796bd9b7edfdb4ab0800000000000000
+      internalID: -5022674812751989097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallStarship_Blue_03
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 450
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8de7c7101bab29f0800000000000000
+      internalID: -492111648660132467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallStarship_Blue_04
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ff5dace761cced0800000000000000
+      internalID: -2392512568215863503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumStarship_Blue_02
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 386
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a63730fbaeb97b0800000000000000
+      internalID: -5216317637261038999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumStarship_Blue_03
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 386
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e200df6acee5a20800000000000000
+      internalID: 3053137799357148699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeStarship_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 261
+        width: 84
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7cb661edca01700800000000000000
+      internalID: 509096827751745488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrier_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 259
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95a85d95fe73b340800000000000000
+      internalID: 4878382414744298909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFrighter_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 258
+        width: 74
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e9be5d1ffb8680800000000000000
+      internalID: -8751620949256052375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperCarrier_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c4083143c635bb0800000000000000
+      internalID: -4948492594628768660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommandStarship_Blue_01
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 8
+        width: 196
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd9242a854d82a0800000000000000
+      internalID: -6733649408234497014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
